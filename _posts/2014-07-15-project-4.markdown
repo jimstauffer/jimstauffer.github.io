@@ -1,11 +1,11 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: 143 Freedom Ct.
+subtitle: 4 bedroom with sweeping views
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+img: petaluma_house_3.jpg
+thumbnail: petaluma_house_3_thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
