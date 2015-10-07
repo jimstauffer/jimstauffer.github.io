@@ -1,11 +1,11 @@
 ---
-title: Escape
-subtitle: Website Design
+title: 457 Evil Ave.
+subtitle: 10 bd mansion
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: petaluma_house_5.jpg
+thumbnail: petaluma_house_5_thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

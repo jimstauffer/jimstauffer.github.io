@@ -1,10 +1,10 @@
 url: https://jimstauffer.github.io
-#baseurl: /home/
+#baseurl: /jimstauffer
 
 # Site settings
 title: Sonoma County Realtor & Broker
-email: jamesstauffer@gmail.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+email: jamesstaufferrealty@gmail.com
+description: "James (Jim) Stauffer Realty. Serving Sonoma County for all real estate needs since 1992."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:

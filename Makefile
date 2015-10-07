@@ -9,10 +9,10 @@ build :
 	docker build --rm -t jimstauffer .
 
 run start : 
-#	-@docker stop jimstauffer
-#	-@docker rm jimstauffer
-#	docker run --name jimstauffer -p 8005:8000 --rm -t -v $(CURDIR):/jimstauffer jimstauffer &
-	docker run -p 8015:8000 --rm -t -v $(CURDIR):/jimstauffer jimstauffer &
+	-@docker stop jimstauffer
+	-@docker rm jimstauffer
+	docker run --name jimstauffer -p 8015:8000 --rm -t -v $(CURDIR):/jimstauffer jimstauffer &
+#docker run -p 8015:8000 --rm -t -v $(CURDIR):/jimstauffer jimstauffer &
 
 shell :
 	docker run --rm -t -i -v $(CURDIR):/jimstauffer jimstauffer /bin/bash -l
